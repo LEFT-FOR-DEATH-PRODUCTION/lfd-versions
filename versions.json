@@ -1,0 +1,69 @@
+{
+  "message": "",
+  "products": {
+    "bridge": {
+      "version": "1.0.0",
+      "released": "2026-10-29",
+      "critical": false,
+      "download": "https://portal.cfx.re/assets/granted-assets",
+      "changelog": [
+        "First release: shared framework layer, protection and update checker for every LFD resource"
+      ]
+    },
+    "golf": {
+      "version": "1.3.0",
+      "released": "2026-10-29",
+      "critical": false,
+      "download": "https://portal.cfx.re/assets/granted-assets",
+      "changelog": [
+        "Requires lfd-bridge (install it next to this resource)",
+        "Update checker: admins are told when a new version is out",
+        "Framework (Qbox / QBCore / ESX) is now set once in lfd-bridge/config.lua"
+      ]
+    },
+    "tennis": {
+      "version": "1.1.0",
+      "released": "2026-10-29",
+      "critical": false,
+      "download": "https://portal.cfx.re/assets/granted-assets",
+      "changelog": [
+        "Requires lfd-bridge (install it next to this resource)",
+        "Update checker: admins are told when a new version is out",
+        "Framework (Qbox / QBCore / ESX) is now set once in lfd-bridge/config.lua",
+        "Tournaments: CPU Gauntlet and League with prize pools and weekly events",
+        "Tournament place shown in the match summary"
+      ]
+    },
+    "billiards": {
+      "version": "1.1.0",
+      "released": "2026-10-29",
+      "critical": false,
+      "download": "https://portal.cfx.re/assets/granted-assets",
+      "changelog": [
+        "Requires lfd-bridge (install it next to this resource)",
+        "Update checker: admins are told when a new version is out",
+        "Framework (Qbox / QBCore / ESX) is now set once in lfd-bridge/config.lua"
+      ]
+    },
+    "shadowtrace": {
+      "version": "1.1.0",
+      "released": "2026-10-29",
+      "critical": false,
+      "download": "https://portal.cfx.re/assets/granted-assets",
+      "changelog": [
+        "Requires lfd-bridge (install it next to this resource)",
+        "Update checker: admins are told when a new version is out"
+      ]
+    },
+    "jobs": {
+      "version": "1.8.0",
+      "released": "2026-10-29",
+      "critical": false,
+      "download": "https://portal.cfx.re/assets/granted-assets",
+      "changelog": [
+        "Requires lfd-bridge (install it next to this resource)",
+        "Update checker: admins are told when a new version is out"
+      ]
+    }
+  }
+}
